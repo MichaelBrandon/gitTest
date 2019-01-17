@@ -1,0 +1,14 @@
+Starting:
+node -v (this finds the version of node)
+npm init
+npm install express --save
+git init
+git add .
+git commit -m "Description"
+git remote add origin <link to repo> (don't use <> when entering)
+git push -u origin master
+
+Uploading:
+git add .
+git commit -m "Description"
+git push -u origin master
